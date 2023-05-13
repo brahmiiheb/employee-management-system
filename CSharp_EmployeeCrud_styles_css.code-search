@@ -1,0 +1,9 @@
+# Query: CSharp_EmployeeCrud.styles.css
+# ContextLines: 1
+
+1 result - 1 file
+
+Views\Shared\_Layout.cshtml:
+  8      <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+  9     <link rel="stylesheet" href="~/CSharp_EmployeeCrud.styles.css" asp-append-version="true" />
+  10  </head>
